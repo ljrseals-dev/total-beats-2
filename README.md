@@ -33,13 +33,13 @@ The preface makes this the standard for the chapters that follow: every claimed 
 
 The second edition shifts the engineering problem from merely avoiding crashes to long-session stability. Memory limits, restraint, rollback, and quiet operation become design requirements.
 
-> “The pipeline is the project’s honesty made operational.”
+### Engineering honesty
 
-The book treats repeatable checks as evidence, not ceremony. Its test and soak-test approach watches memory, reward behavior, rollbacks, output level, and checkpoint growth over time.
+The book describes the pipeline as the project's practical mechanism for distinguishing evidence from belief. Its test and soak-test approach watches memory, reward behavior, rollbacks, output level, and checkpoint growth over time.
 
-> “Whether it sounds like the sea is still a decision you make by listening.”
+### Listening is part of the system
 
-The closing chapter leaves the final musical judgment where it belongs: with the listener. Passing tests can establish that the system behaves; listening determines whether the result works as music.
+The closing chapter leaves the final musical judgment with the listener. Passing tests can establish that the system behaves; listening determines whether the result works as music.
 
 ## What the expanded edition covers
 
